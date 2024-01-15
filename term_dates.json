@@ -1,0 +1,469 @@
+{
+  "winter_timetable_start": "2023-11-02",
+  "winter_timetable_end": "2024-03-03",
+  "terms": [
+    {
+      "start": "2023-09-06",
+      "end": "2023-12-08"
+    },
+    {
+      "start": "2024-01-09",
+      "end": "2024-03-22"
+    },
+    {
+      "start": "2024-04-16",
+      "end": "2024-06-23"
+    }
+  ],
+  "holidays": [
+    {
+      "start": "2023-09-29",
+      "end": "2023-10-01"
+    },
+    {
+      "start": "2023-10-21",
+      "end": "2023-11-01"
+    },
+    {
+      "start": "2023-11-18",
+      "end": "2023-11-19"
+    },
+    {
+      "start": "2024-01-27",
+      "end": "2024-01-28"
+    },
+    {
+      "start": "2024-02-10",
+      "end": "2024-02-18"
+    },
+    {
+      "start": "2024-03-02",
+      "end": "2024-03-03"
+    },
+    {
+      "start": "2024-05-04",
+      "end": "2024-05-06"
+    },
+    {
+      "start": "2024-05-25",
+      "end": "2024-06-02"
+    }
+  ],
+  "remitted_periods": [
+    {
+      "date": "2023-10-20",
+      "periods": [
+        "3",
+        "4",
+        "5"
+      ],
+      "is_early_start": false
+    },
+    {
+      "date": "2023-11-17",
+      "periods": [
+        "3",
+        "4",
+        "5",
+        "2e"
+      ],
+      "is_early_start": true
+    },
+    {
+      "date": "2023-12-08",
+      "periods": [
+        "3",
+        "4",
+        "5",
+        "2e"
+      ],
+      "is_early_start": false
+    },
+    {
+      "date": "2024-01-26",
+      "periods": [
+        "3",
+        "4",
+        "5",
+        "2e"
+      ],
+      "is_early_start": true
+    },
+    {
+      "date": "2024-02-09",
+      "periods": [
+        "3",
+        "4",
+        "5",
+        "2e"
+      ],
+      "is_early_start": true
+    },
+    {
+      "date": "2024-03-01",
+      "periods": [
+        "3",
+        "4",
+        "5",
+        "2e"
+      ],
+      "is_early_start": true
+    },
+    {
+      "date": "2024-03-22",
+      "periods": [
+        "3",
+        "4",
+        "5",
+        "2e"
+      ],
+      "is_early_start": false
+    },
+    {
+      "date": "2024-05-03",
+      "periods": [
+        "3",
+        "4",
+        "5",
+        "2e"
+      ],
+      "is_early_start": true
+    },
+    {
+      "date": "2023-09-06",
+      "periods": [
+        "2a",
+        "2b",
+        "2c",
+        "3",
+        "4",
+        "5"
+      ],
+      "is_early_start": false
+    },
+    {
+      "date": "2023-09-19",
+      "periods": [
+        "2a",
+        "2b",
+        "2c",
+        "3",
+        "4",
+        "5",
+        "2d",
+        "2e"
+      ],
+      "is_early_start": false
+    }
+  ],
+  "lesson_rotations": [
+    {
+      "date": "2023-11-17",
+      "rotations": {
+        "Friday 2a": "Friday 3",
+        "Friday 2b": "Friday 4",
+        "Friday 2c": "Friday 5",
+        "Friday 2d": "Saturday 2a"
+      }
+    },
+    {
+      "date": "2024-01-26",
+      "rotations": {
+        "Friday 2a": "Saturday 2b",
+        "Friday 2b": "Saturday 2c",
+        "Friday 2c": "Saturday 2d",
+        "Friday 2d": "Saturday 2e"
+      }
+    },
+    {
+      "date": "2024-03-01",
+      "rotations": {
+        "Friday 2a": "Friday 2e",
+        "Friday 2b": "Friday 3",
+        "Friday 2c": "Friday 4",
+        "Friday 2d": "Friday 5"
+      }
+    },
+    {
+      "date": "2024-05-03",
+      "rotations": {
+        "Friday 2a": "Saturday 2a",
+        "Friday 2b": "Saturday 2b",
+        "Friday 2c": "Saturday 2c",
+        "Friday 2d": "Saturday 2d"
+      }
+    }
+  ],
+  "exams": [
+    {
+      "start": "2023-11-21",
+      "end": "2023-11-29",
+      "years": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "start": "2024-03-04",
+      "end": "2024-03-09",
+      "years": [
+        11
+      ]
+    },
+    {
+      "start": "2024-03-11",
+      "end": "2024-03-15",
+      "years": [
+        13
+      ]
+    },
+    {
+      "start": "2024-06-10",
+      "end": "2024-06-15",
+      "years": [
+        9,
+        10,
+        12
+      ]
+    },
+    {
+      "start": "2024-06-03",
+      "end": "2024-06-29",
+      "years": [
+        11,
+        13
+      ]
+    }
+  ],
+  "tutor_periods": [
+    {
+      "date": "2023-09-06",
+      "periods": [
+        "2a",
+        "2b",
+        "2c"
+      ]
+    },
+    {
+      "date": "2023-09-14",
+      "periods": [
+        "2c"
+      ]
+    },
+    {
+      "date": "2023-09-27",
+      "periods": [
+        "2d"
+      ]
+    },
+    {
+      "date": "2023-10-02",
+      "periods": [
+        "3"
+      ]
+    },
+    {
+      "date": "2023-10-11",
+      "periods": [
+        "3"
+      ]
+    },
+    {
+      "date": "2023-10-17",
+      "periods": [
+        "2d"
+      ]
+    },
+    {
+      "date": "2023-11-02",
+      "periods": [
+        "2a"
+      ]
+    },
+    {
+      "date": "2023-11-07",
+      "periods": [
+        "2b"
+      ]
+    },
+    {
+      "date": "2023-11-16",
+      "periods": [
+        "2d"
+      ]
+    },
+    {
+      "date": "2023-11-20",
+      "periods": [
+        "2d"
+      ]
+    },
+    {
+      "date": "2023-12-08",
+      "periods": [
+        "2d"
+      ]
+    },
+    {
+      "date": "2024-01-09",
+      "periods": [
+        "2a"
+      ]
+    },
+    {
+      "date": "2024-01-15",
+      "periods": [
+        "2b"
+      ]
+    },
+    {
+      "date": "2024-01-23",
+      "periods": [
+        "2c"
+      ]
+    },
+    {
+      "date": "2024-01-29",
+      "periods": [
+        "2e"
+      ]
+    },
+    {
+      "date": "2024-02-07",
+      "periods": [
+        "2e"
+      ]
+    },
+    {
+      "date": "2024-02-19",
+      "periods": [
+        "2c"
+      ]
+    },
+    {
+      "date": "2024-02-26",
+      "periods": [
+        "4"
+      ]
+    },
+    {
+      "date": "2024-03-07",
+      "periods": [
+        "2b"
+      ]
+    },
+    {
+      "date": "2024-03-12",
+      "periods": [
+        "2e"
+      ]
+    },
+    {
+      "date": "2024-03-22",
+      "periods": [
+        "2d"
+      ]
+    },
+    {
+      "date": "2024-04-16",
+      "periods": [
+        "2a"
+      ]
+    },
+    {
+      "date": "2024-04-24",
+      "periods": [
+        "2c"
+      ]
+    },
+    {
+      "date": "2024-05-01",
+      "periods": [
+        "4"
+      ]
+    },
+    {
+      "date": "2024-05-07",
+      "periods": [
+        "2d"
+      ]
+    },
+    {
+      "date": "2024-05-15",
+      "periods": [
+        "3"
+      ]
+    },
+    {
+      "date": "2024-05-23",
+      "periods": [
+        "2b"
+      ]
+    },
+    {
+      "date": "2024-06-03",
+      "periods": [
+        "3"
+      ]
+    },
+    {
+      "date": "2024-06-15",
+      "periods": [
+        "2d"
+      ]
+    },
+    {
+      "date": "2024-06-20",
+      "periods": [
+        "2e"
+      ]
+    },
+    {
+      "date": "2024-06-28",
+      "periods": [
+        "2c"
+      ]
+    }
+  ],
+  "late_starts": [
+    {
+      "date": "2023-09-07",
+      "delay": 10
+    },
+    {
+      "date": "2023-09-08",
+      "delay": 10
+    },
+    {
+      "date": "2023-10-02",
+      "delay": 15
+    },
+    {
+      "date": "2023-10-03",
+      "delay": 15
+    },
+    {
+      "date": "2023-11-15",
+      "delay": 15
+    },
+    {
+      "date": "2023-12-08",
+      "delay": 10
+    },
+    {
+      "date": "2024-01-11",
+      "delay": 10
+    },
+    {
+      "date": "2024-02-26",
+      "delay": 15
+    },
+    {
+      "date": "2024-02-28",
+      "delay": 10
+    }
+  ]
+}
